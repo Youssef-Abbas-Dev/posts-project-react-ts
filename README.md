@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img src="./TypeScript50" />
+<img src="./TypeScript50.png" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
